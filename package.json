@@ -1,0 +1,17 @@
+{
+    "name": "@zudljk/inotes2md",
+    "version": "0.0.1",
+    "main": "inotes2md.js",
+    "bin": {
+        "inotes2md": "inotes2md.js"
+    },
+    "author": "zudljk",
+    "license": "MIT",
+    "dependencies": {
+        "apple-icloud": "github:MauriceConrad/iCloud-API",
+        "prompt": "^1.0.0"
+    },
+    "scripts": {
+        "pkg": "pkg ."
+    }
+}
